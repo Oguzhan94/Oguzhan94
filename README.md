@@ -1,5 +1,5 @@
 ## <h1 align="center">Hi 👋, I'm Oğuzhan</h1>
-- 🌱 I’m currently learning **Native Android Development, Flutter**
+- 🌱 I’m currently learning **Native Android Development
 
 <p> </p>
 <p> </p>
